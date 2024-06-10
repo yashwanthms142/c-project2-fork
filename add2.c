@@ -5,7 +5,7 @@ void add2num()
 	int A, B, sum = 0; 
 
 	// Ask user to enter the two numbers 
-	printf("Enter two numbers A and B : \n");   
+	printf("\nEnter two numbers A and B : \n");   
 
 	// Read two numbers from the user || A = 2, B = 3 
 	scanf("%d%d", &A, &B); 
@@ -15,7 +15,7 @@ void add2num()
 	sum = A + B; 
 
 	// Print the sum 
-	printf("Sum of A and B is: %d", sum); 
+	printf("Sum of A and B is: %d\n", sum); 
 
 	//return 0; 
 }

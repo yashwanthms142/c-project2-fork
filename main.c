@@ -1,4 +1,4 @@
-void main()
+main()
 {
   add2num();
   biggestof3();
