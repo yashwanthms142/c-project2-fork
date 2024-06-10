@@ -1,5 +1,5 @@
 // C program to add two numbers 
-
+#include <stdio.h>
 void add2num() 
 { 
 	int A, B, sum = 0; 
